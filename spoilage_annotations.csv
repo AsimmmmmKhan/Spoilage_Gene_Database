@@ -1,0 +1,385 @@
+﻿Specie;Funtional_Category;Gene_Symbol ;Functional_Code_from_NCBI;Encoded_protein_from_articles;Cellular_Component;Molecular_Function;Biological_Process;
+Acinetobacter baumannii;Quorum Sensing;abaI;Acyl-homoserine-lactone synthase;Acyl-homoserine-lactone synthase AbaI;;;;
+Acinetobacter baumannii;Quorum Sensing;abaR;LuxR family transcriptional regulator;LuxR family transcriptional regulator AbaR;;;;
+Pseudomonas fragi;Regulatory pathways;ackA;Acetate kinase;Determine acetate, acetoin, diacetyl, and acid production (acetate kinase);;;;
+Pseudomonas fluorescens ;Biofilm formation;adnA;Flagellar and Biofilm Transcriptional regulator;Encoding for a transcription factor that affects flagellar synthesis and biofilm formation;;;;
+Pseudomonas psychrophila;Biofilm formation;adrA;Diguanylate cyclase;Diguanylate cyclase;;;;
+Pseudomonas fragi;Regulatory pathways;aldB;Aldehyde dehydrogenase;Aldehyde dehydrogenase;;;;
+"Common in most gram positive 
+and gram negative organisms";Quorum Sensing;alg;Plasmid stabilization protein;;;;;
+Pseudomonas fragi;Biofilm formation;alg8;Alginate biosynthesis protein;Alginate biosynthesis protein Alg8;;;;
+Pseudomonas psychrophila;Biofilm formation;algA;Alginate biosynthesis protein;Mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase;Cytoplasm;Mannose-6-phosphate isomerase activity;Produces a precursor for alginate polymerization. The alginate layer provides a protective barrier against host immune defenses and antibiotics.;
+Pseudomonas fragi;Biofilm formation;algD;GDP-mannose 6-dehydrogenase;GDP-mannose 6-dehydrogenase AlgD;;;;
+Pseudomonas fragi;Biofilm formation;bssR;Biofilm formation regulatory protein;Biofilm formation regulatory protein;;;;
+Pseudomonas fragi;Biofilm formation;algI;Alginate O-acetyltransferase;Biofilm formation (alginate O-acetyltransferase);;;;
+Pseudomonas fragi;Biofilm formation;algW;Do family serine endopeptidase;Do family serine endopeptidase AlgW;;;;
+Pseudomonas fragi;Regulatory pathways;alsS;Acetolactate synthase;Acetolactate decarboxylase;;;;
+Pseudomonas psychrophila;Biofilm formation;amrZ;Transcriptional regulator;Transcription factor AmrZ;Cytoplasm;DNA-binding transcription repressor activity;Functions both as a transcriptional activator and a repressor of multiple genes encoding virulence factors as well as genes involved in environmental adaptation;
+"Common in most gram positive 
+and gram negative organisms";Protein metabolism;apr;Serine protease;Alkaline protease;;;;
+Pseudomonas fragi;Protein metabolism;aprA;Serralysin family metalloprotease;Extracellular secretion of alkaline protease (Metalloprotease AprA);;;;
+Pseudomonas fragi;Protein metabolism;aprD;Alkaline protease secretion ATP-binding protein;Alkaline protease secretion ATP-binding protein AprD, Extracellualr secretion system (Exporters)The ABC-exporter system (P. aeruginosa),  (Regulates extracellular protease secretion) (regulate the total volatile basic nitrogen production pH, and sensory traits of meats );;;;
+Pseudomonas fragi;Protein metabolism;aprE;Subtilisin like serine protease;alkaline protease secretion protein AprE;;;;
+Pseudomonas fragi;Protein metabolism;aprF;Alkaline protease secretion protein;alkaline protease secretion protein AprF;;;;
+Pseudomonas fragi;Protein metabolism;﻿aprI;Alkaline proteinase inhibitor;﻿protease regulatory inhibitor (alkaline proteinase inhibitor AprI);;;;
+Pseudomonas fragi;Protein metabolism;aprX;Serine protease;Metalloprotease (Heat-resistant protease in P. fluorescens) (Important protease in Pseudomonas);;;;
+Pseudomonas fragi;Regulatory pathways;arcA;Two-component system response regulator;Two-component system response regulator;;;;
+Pseudomonas fragi;Lipid metabolism;ardB;Putative cyclic-di-GMP phosphodiesterase;Putative cyclic-di-GMP phosphodiesterase;;;;
+Pseudomonas fragi;Regulatory pathways;argR;Global regulatory protein (Arginine repressor);global regulatory protein (arginine repressor);;;;
+Pseudomonas fragi;Biofilm formation;atr;Acidic Tolerance Response (ATR Protein);Acidic Tolerance Response (ATR Protein);;;;
+Pseudomonas psychrophila;Biofilm formation;barA;Two-component sensor histidine kinase;Two-component system, NarL family, sensor histidine kinase BarA;Plasma membrane;Phosphorelay sensor kinase activity;Cellular hyperosmotic response(Response to hydrogen peroxide);
+Pseudomonas fragi;Regulatory pathways;basR;Two-component system response regulator;two-component system response regulator (Transcriptional regulatory protein);;;;
+Pseudomonas psychrophila;Biofilm formation;bcsA;Cellulose synthase catalytic subunit;Cellulose synthase catalytic subunit [UDP-forming];Plasma membrane;Cellulose synthase (UDP-forming) activity;Bacterial cellulose biosynthetic process;
+Pseudomonas psychrophila;Protein metabolism;bepA ;Beta-barrel assembly-enhancing protease;Beta-barrel assembly-enhancing protease ;Periplasmic space;Metalloendopeptidase activity;Functions as both a chaperone and a metalloprotease;
+Pseudomonas psychrophila;Biofilm formation;bifA;Cyclic-di-GMP phosphodiesterase;Putative biofilm formation regulator BifA;Plasma membrane;;Biofilm formation regulation (Cyclic di-GMP metabolism protein, combines GGDEF and EAL domains with a 6TM membrane domain Signal transduction mechanisms);
+Salmonella Typhimurium ;Biofilm formation;bsc;MULTISPECIES: plasmid recombination protein;Plasmid recombination protein;;;;
+Pseudomonas fragi;Biofilm formation;caps;Protein tyrosine phosphatase;protein tyrosine phosphatase;;;;
+Pseudomonas psychrophila;Biofilm formation;chpA;Chemotaxis signal transduction system protein;Chemosensory pili system protein ChpA (Sensor histidine kinase/response regulator);Cytoplasm;Phosphorelay response regulator activity;Involved in the transmission of sensory signals from the chemoreceptors to the flagellar motors.;
+Pseudomonas psychrophila;Protein metabolism;clpA ;ATP-dependent Clp protease ATP-binding subunit;ATP-dependent Clp protease ATP-binding subunit ClpA ;Cytoplasm;ATP hydrolysis activity (Chaperone);Cellular response to heat (Proteolysis);
+Pseudomonas psychrophila;Protein metabolism;clpB ;ATP-dependent Clp protease, ATP-binding subunit;Chaperone protein ClpB;Cytoplasm;ATP hydrolysis activity;Cellular response to heat (Protein refolding);
+Pseudomonas psychrophila;Protein metabolism;clpP ;ATP-dependent Clp protease, protease subunit;ATP-dependent Clp protease, protease subunit ;Cytoplasm;Serine-type endopeptidase activity;Proteolysis (Response to heat & radiation);
+Pseudomonas psychrophila;Protein metabolism;clpS ;ATP-dependent Clp protease adaptor protein;ATP-dependent Clp protease adaptor protein ClpS ;Cytoplasm;ATP hydrolysis activity (Chaperone);Cellular response to heat (Proteolysis);
+Pseudomonas psychrophila;Protein metabolism;clpX ;ATP-dependent Clp protease ATP-binding subunit;ATP-dependent Clp protease ATP-binding subunit ClpX ;Cytoplasm;ATP hydrolysis activity (Chaperone);Directs the protease to specific substrates (Proteolysis);
+Pseudomonas fragi;Regulatory pathways;colG;Collagenase;collagenase;;;;
+Pseudomonas fragi;Regulatory pathways;colH;Collagenase;collagenase;;;;
+Pseudomonas psychrophila;Biofilm formation;cpdA;3',5'-cyclic-AMP phosphodiesterase;3',5'-cyclic-AMP phosphodiesterase;;;;
+Pseudomonas psychrophila;Biofilm formation;crp;cAMP-activated global transcriptional regulator;CRP/FNR family transcriptional regulator, cyclic AMP receptor protein;Cytoplasm;DNA-binding transcription factor activity;A global transcription regulator, which plays a major role in carbon catabolite repression (CCR) as well as other processes (positive regulation of DNA-templated transcription);
+Shewanella putrefaciens;Biofilm formation;crr;PTS system glucose-specific EIIA component;PTS system EIIA component;;;;
+Pseudomonas psychrophila;Biofilm formation;csgA;Curlin major subunit;Major curlin subunit;Outer membrane;Identical protein binding;Curlin is the structural subunit of the curli fimbriae (Cell adhesion & curli assembly);
+Pseudomonas psychrophila;Biofilm formation;csgB;Curlin minor subunit;Minor curlin subunit;Outer membrane;Identical protein binding;Curlin is the structural subunit of the curli fimbriae (Cell adhesion & curli assembly);
+Pseudomonas psychrophila;Biofilm formation;csgG;Curlin production assembly/transport protein;Curli production assembly/transport component CsgG;Outer membrane;Identical protein binding;Curlin is the structural subunit of the curli fimbriae (Cell adhesion & curli assembly);
+Pseudomonas fragi;Biofilm formation;cspA;Cold shock protein;Major cold shock protein CspA ;;;;
+Pseudomonas fragi;Biofilm formation;cspB;Cold shock protein;Cold shock protein of CSP family;;;;
+Pseudomonas fragi;Biofilm formation;cspC;Cold shock protein;Cold shock protein of CSP family;;;;
+Pseudomonas fragi;Biofilm formation;cspD;Cold shock protein;Cold shock protein of CSP family;;;;
+Pseudomonas fragi;Biofilm formation;cspE;Cold shock protein;Cold shock protein of CSP family;;;;
+Pseudomonas fragi;Biofilm formation;cspF;Cold shock protein;Cold shock protein of CSP family;;;;
+Pseudomonas fragi;Biofilm formation;cspG;Cold shock protein;Cold shock protein of CSP family;;;;
+Pseudomonas fragi;Biofilm formation;cspH;Cold shock protein;Cold shock protein of CSP family;;;;
+Pseudomonas fragi;Biofilm formation;cspI;Cold shock protein;Cold shock protein of CSP family;;;;
+Pseudomonas fragi;Biofilm formation;cspJ;Cold shock protein;Cold shock protein of CSP family;;;;
+Pseudomonas psychrophila;Biofilm formation;csrA;Carbon storage regulator;Carbon storage regulator;Cytoplasm;mRNA 5'-UTR binding;Regulation of carbohydrate metabolic process;
+Pseudomonas psychrophila/Shewanella putrefaciens;Protein metabolism;ctpA ;Carboxyl-terminal proteinase;Carboxyl-terminal processing protease ;Periplasmic space;Serine-type endopeptidase activity;Proteolysis;
+Pseudomonas psychrophila;Biofilm formation;cyaA;Class I adenylate cyclase;Adenylate cyclase, class 1;Cytoplasm;Adenylate cyclase activity;cAMP biosynthetic process;
+Pseudomonas psychrophila;Sulfur metabolism;cysA;Sulfate/thiosulfate import ATP-binding protein;Sulfate/thiosulfate transport system ATP-binding protein;Plasma Membrane;ATP hydrolysis activity;Part of the ABC transporter complex CysAWTP involved in sulfate/thiosulfate import.;
+Pseudomonas psychrophila;Sulfur metabolism;cysD;Sulfate adenylyltransferase subunit;Sulfate adenylyltransferase subunit 2;Sulfate adenylyltransferase complex (ATP);Sulfate adenylyltransferase (ATP) activity;Hydrogen sulfide biosynthetic process;
+Pseudomonas psychrophila;Sulfur metabolism;cysE;Serine O-acetyltransferase;Serine O-acetyltransferase;Cytoplasm;Serine O-acetyltransferase activity;Cysteine biosynthetic process from serine;
+Pseudomonas psychrophila;Biofilm formation;cysH;Phosphoadenosine phosphosulfate reductase;Serine O-acetyltransferase;Cytoplasm;Serine O-acetyltransferase activity;Cysteine biosynthetic process from serine;
+Pseudomonas psychrophila;Sulfur metabolism;cysI;Sulfite reductase [NADPH] hemoprotein beta-component;Adenosine 5'-phosphosulfate reductase;Cytoplasm;Adenylyl-sulfate reductase (thioredoxin) activity;"Sulfur metabolism; hydrogen sulfide biosynthesis; sulfite from sulfate.";
+Pseudomonas psychrophila;Sulfur metabolism;cysJ;Sulfite reductase [NADPH] flavoprotein alpha-component;Sulfite reductase [NADPH] hemoprotein beta-component;Sulfite reductase complex (NADPH);Sulfite reductase (ferredoxin) activity;Hydrogen sulfide biosynthetic process (This is one of several activities required for the biosynthesis of L-cysteine from sulfate);
+Pseudomonas psychrophila;Sulfur metabolism;cysK;Cysteine synthase A;Sulfite reductase [NADPH] flavoprotein alpha-component;Cytoplasm;Sulfite reductase (NADPH) activity;"Sulfur metabolism; hydrogen sulfide biosynthesis; hydrogen sulfide from sulfite (NADPH route)";
+Pseudomonas psychrophila;Sulfur metabolism;cysN;Cysteine synthase;Cysteine synthase;Cytoplasm;Cysteine synthase activity (Hydrolase);Cysteine biosynthetic process from serine;
+Pseudomonas psychrophila;Sulfur metabolism;cysP;Sulfate transport system substrate-binding protein;Bifunctional enzyme CysNC;;Sulfate adenylyltransferase (ATP) activity;Hydrogen sulfide biosynthetic process (Cellular response to sulfate starvation);
+Pseudomonas psychrophila;Sulfur metabolism;cysQ;3'(2'),5'-bisphosphate nucleotidase;Sulfate/thiosulfate transport system substrate-binding protein;Plasma membrane;ABC-type sulfate transporter activity;Part of the ABC transporter complex (TC 3.A.1.6.1) involved in sulfate/thiosulfate import.;
+Pseudomonas psychrophila;Sulfur metabolism;cysT;Sulfate transport system permease;3'(2'),5'-bisphosphate nucleotidase CysQ;Plasma membrane;Adenylylsulfate kinase activity;Hydrogen sulfide biosynthetic process (Catalyzes the synthesis of activated sulfate);
+Pseudomonas psychrophila;Sulfur metabolism;cysU;Sulfate/thiosulfate ABC transporter inner membrane subunit;Sulfate/thiosulfate transport system permease protein;Plasma membrane;ABC-type sulfate transporter activity;Part of the ABC transporter complex CysAWTP (TC 3.A.1.6.1) involved in sulfate/thiosulfate import.;
+Pseudomonas psychrophila;Sulfur metabolism;cysW;Sulfate transport system permease protein;Sulfate/thiosulfate transport system permease protein;Plasma membrane;ABC-type sulfate transporter activity;Part of the ABC transporter complex CysAWTP (TC 3.A.1.6.1) involved in sulfate/thiosulfate import;
+Pseudomonas psychrophila;Protein metabolism;degP ;Serine protease;Probable periplasmic serine endoprotease DegP-like;Periplasmic space;Serine-type endopeptidase activity;Degradation of transiently denatured and unfolded proteins which accumulate in the periplasm following stress conditions;
+Shewanella putrefaciens;Protein metabolism;degQ ;Periplasmic serine protease;Serine protease DegQ ;;;;
+Pseudomonas psychrophila;Protein metabolism;degS ;Serine protease;Serine protease;Periplasmic space;Serine-type peptidase activity;Degradation of transiently denatured and unfolded proteins which accumulate in the periplasm following stress conditions.;
+Pseudomonas psychrophila;Biofilm formation;dksA;RNA polymerase-binding transcription factor DksA;RNA polymerase-binding transcription factor DksA;Cytoplasm;RNA polymerase binding; Negative regulation of proteolysis & lipid biosynthetic process;
+Pseudomonas fragi;Siderophores Related;entD;Enterobactin synthase subunit;Enterobactin synthesis subunit D;;;;
+Pseudomonas fragi;Siderophores Related;entF;Enterobactin non-ribosomal peptide synthetase;Enterobactin synthesis subunit F;;;;
+Pseudomonas psychrophila;Biofilm formation;envZ;Histidine kinase;Sensor histidine kinase EnvZ;Plasma membrane;Phosphorelay sensor kinase activity;Catalytic activity (ATP + protein L-histidine = ADP + protein N-phospho-L-histidine.);
+Pseudomonas fragi;Lipid metabolism;estA;Esterase;esterase encoding gene (Belong to autotransporter family);;;;
+"Common in most gram positive 
+and gram negative organisms";Quorum Sensing;exoS;T3SS effector bifunctional cytotoxin exoenzyme S;Exoenzymes;;;;
+"Common in most gram positive 
+and gram negative organisms";Quorum Sensing;exoT;Succinoglycan biosynthesis transport protein;;;;;
+"Common in most gram positive 
+and gram negative organisms";Quorum Sensing;exoU;Succinoglycan biosynthesis glycosyltransferase;;;;;
+"Common in most gram positive 
+and gram negative organisms";Quorum Sensing;exoY;Exopolysaccharide production protein;;;;;
+Pseudomonas fragi;Regulatory pathways;fadR;Fatty acid metabolism regulator protein;Fatty acid metabolism regulator protein;;;;
+"Common in most gram positive 
+and gram negative organisms";Siderophores Related;fcuA;TonB-dependent ferric siderophore receptor;Putative ferric siderophore receptor ;;;;
+"Common in most gram positive 
+and gram negative organisms";Siderophores Related;fepA;TonB-dependent siderophore receptor;Siderophore receptor;;;;
+Pseudomonas fragi;Biofilm formation;fhaA;Putative large exoprotein involved in heme utilization or adhesion of ShlA/HecA/FhaA family;Putative large exoprotein involved in heme utilization or adhesion of ShlA/HecA/FhaA family;;;;
+"Common in most gram positive 
+and gram negative organisms";Siderophores Related;fhuA;Ferrichrome outer membrane transporter/phage receptor;Ferrichrome outer membrane transporter/phage receptor ;;;;
+"Common in most gram positive 
+and gram negative organisms";Siderophores Related;fhuE;TonB-dependent siderophore receptor;TonB-dependent siderophore receptor;;;;
+Pseudomonas fragi;Stress adaptation;fimD;Outer membrane usher protein;Outer membrane usher protein;;;;
+Pseudomonas psychrophila;Biofilm formation;fis;DNA-binding transcriptional regulator;Fis family transcriptional regulator, factor for inversion stimulation protein;;;;
+"Common in most gram positive 
+and gram negative organisms";Siderophores Related;fiu;Catecholate siderophore receptor;Catecholate siderophore receptor;;;;
+Pseudomonas psychrophila;Biofilm formation;fldP;Flavodoxin;ferredoxin-NADP(H) reductase (Flavodoxin);Plasma membrane;NAD(P)H dehydrogenase (quinone) activity;Protects the cell from oxidative stress and reactive oxygen species (ROS) damage,;
+Pseudomonas psychrophila;Biofilm formation;fleQ;Flagellar regulatory protein;sigma-54 dependent transcriptional regulator, flagellar regulatory protein;;;;
+Shewanella putrefaciens;Biofilm formation;flgA;Flagellar basal body P-ring formation protein;flagellar basal body P-ring biosynthesis protein;;;;
+Pseudomonas fragi;Biofilm formation;flgD;Flagellar biosynthesis protein;flagellar biosynthesis protein FlgD;;;;
+Pseudomonas psychrophila;Biofilm formation;flgM;Negative regulator of flagellin synthesis;negative regulator of flagellin synthesis FlgM;;;;
+Shewanella putrefaciens;Biofilm formation;flhC;Flagellar transcriptional activator;flagellar transcriptional activator FlhC;;;;
+Shewanella putrefaciens;Biofilm formation;flhD;Flagellar transcriptional activator;flagellar transcriptional activator FlhD;;;;
+Pseudomonas fragi;Biofilm formation;flhF;Flagellar biosynthesis protein;flagellar biosynthesis protein FlhF ;;;;
+Pseudomonas psychrophila;Biofilm formation;fliA;RNA polymerase sigma factor for flagellar operon;RNA polymerase sigma factor for flagellar operon FliA;;;;
+Pseudomonas fluorescens ;Protein metabolism;fliC ;Flagellin;Encoding for flagellar synthesis (Flagellin);;;;
+Shewanella putrefaciens;Biofilm formation;fliE;Flagellar hook-basal body complex protein;flagellar hook-basal body complex protein FliE;;;;
+"Common in most gram positive 
+and gram negative organisms";Siderophores Related;﻿fpvA;Ferripyoverdine receptor;;;;;
+Lactococcus piscium;Biofilm formation;Ftr;Pleiotropic regulator of exopolysaccharidesynthesis, competence and biofilm formation;Pleiotropic regulator of exopolysaccharidesynthesis, competence and biofilm formation Ftr;;;;
+Pseudomonas psychrophila;Protein metabolism;ftsH ;ATP-dependent zinc-metallo protease;Cell division protease ;Plasma membrane;Metalloendopeptidase activity (Zinc Protease);Plays a role in the quality control of integral membrane proteins;
+"Common in most gram positive 
+and gram negative organisms";Siderophores Related;fur;Ferric uptake regulator;;;;;
+Pseudomonas psychrophila;Biofilm formation;gacA;DNA-binding response regulator;Two-component system, NarL family, invasion response regulator;Cytoplasm;Regulation of DNA-templated transcription;May be involved in lesion formation, swarming and in the production of extracellular protease, syringomycin and N-acyl-L-homoserine lactone (acyl-HSL);
+"Common in most gram positive 
+and gram negative organisms";Quorum Sensing;gacS;Two-component system sensor histidine kinase;related to the quorum-sensing system;;;;
+Pseudomonas psychrophila;Biofilm formation;gcvA;LysR family transcriptional regulator, glycine cleavage system transcriptional activator;LysR family transcriptional regulator, glycine cleavage system transcriptional activator;Cytoplasm;DNA-binding transcription factor activity;Regulation of DNA-templated transcription (Response to UV);
+Shewanella putrefaciens;Biofilm formation;gcvR;Glycine cleavage system transcriptional repressor;glycine cleavage system transcriptional repressor;;;;
+Shewanella putrefaciens;Biofilm formation;gfcE;Polysaccharide export protein;polysaccharide biosynthesis/export protein;;;;
+Pseudomonas psychrophila;Biofilm formation;glgA;Starch synthase;Glycogen synthase;Cytoplasm;Glycogen (starch) synthase activity;Synthesizes alpha-1,4-glucan chains using ADP-glucose (Glycogen biosynthesis);
+Pseudomonas psychrophila;Biofilm formation;glgB;1,4-alpha-glucan branching protein;1,4-alpha-glucan branching enzyme;;;;
+Shewanella putrefaciens;Biofilm formation;glgC;Glucose-1-phosphate adenylyltransferase;glucose-1-phosphate adenylyltransferase;;;;
+Pseudomonas psychrophila;Biofilm formation;glgP;Glycogen phosphorylase;glycogen phosphorylase;;;;
+Pseudomonas psychrophila;Sulfur metabolism;glpE;Thiosulfate sulfurtransferase;Thiosulfate sulfurtransferase GlpE;Cytoplasm;Thiosulfate sulfurtransferase activity;Catalyzes, although with low efficiency, the sulfur transfer reaction from thiosulfate to cyanide.s;
+Pseudomonas fragi;Stress adaptation;gshA;Glutamate--cysteine ligase;glutamate--cysteine ligase;;;;
+Pseudomonas psychrophila;Biofilm formation;gspD;General secretion pathway protein D;General secretion pathway protein D;Outer membrane;;Protein secretion by the type II secretion system;
+Pseudomonas psychrophila;Biofilm formation;gspG;General secretion pathway protein G;Type II secretion system core protein G;Plasma membrane;;Protein secretion by the type II secretion system;
+Pseudomonas psychrophila;Protein metabolism;hasF ;Multidrug efflux transporter outer membrane subunit;Outer membrane protein, protease secretion system ;Outer membrane;Efflux transmembrane transporter activity;Transmembrane transport;
+Pseudomonas psychrophila;Biofilm formation;hcp;Type VI secretion system secreted protein;type VI secretion system secreted protein Hcp;;;;
+Pseudomonas fragi;Biofilm formation;hecA;Large exoprotein, ShlA/HecA/FhaA family;Large exoprotein, ShlA/HecA/FhaA family;;;;
+Pseudomonas psychrophila;Protein metabolism;hflC ;Modulator of FtsH protease;Modulator of FtsH protease HflC ;Plasma membrane;Peptidase activity;HflC and HflK could regulate a protease (Proteolysis);
+Pseudomonas psychrophila;Protein metabolism;hflK ;Modulator of FtsH protease;Modulator of FtsH protease HflK ;Plasma membrane;Peptidase activity;HflC and HflK could regulate a protease (Proteolysis);
+Pseudomonas psychrophila;Biofilm formation;hfq;Host factor-I protein;host factor-I protein;;;;
+Pseudomonas psychrophila;Protein metabolism;hhoB ;Serine protease;Serine protease;Periplasmic space;Serine-type endopeptidase activity;Degradation of transiently denatured and unfolded proteins which accumulate in the periplasm following stress conditions.;
+Pseudomonas fragi;Lipid metabolism;hlyC;Triacylglycerol lipase (varient);triacylglycerol lipase (varient);;;;
+Pseudomonas psychrophila;Biofilm formation;hrpA;Hrp pili protein HrpA;Hrp pili protein HrpA;Extracellular region;;Required for effector protein delivery, parasitism, and pathogenicity.;
+Pseudomonas psychrophila;Biofilm formation;hsbA;HptB-dependent secretion and biofilm anti anti-sigma factor;HptB-dependent secretion and biofilm anti anti-sigma factor;;;;
+Pseudomonas psychrophila;Biofilm formation;hsbR;Two-component system, HptB-dependent secretion and biofilm response regulator;two-component system, HptB-dependent secretion and biofilm response regulator;;;;
+Pseudomonas psychrophila;Protein metabolism;hslU ;ATP-dependent HslUV protease ATP-binding subunit HslU ;ATP-dependent HslUV protease ATP-binding subunit HslU ;Cytoplasm;Peptidase activity;Proteolysis involved in protein catabolic process (Proteolysis);
+Pseudomonas psychrophila;Protein metabolism;hslV ;ATP-dependent HslUV protease, peptidase subunit HslV ;ATP-dependent HslUV protease, peptidase subunit HslV ;Cytoplasm;Threonine-type endopeptidase activity;Proteolysis involved in protein catabolic process (Proteolysis);
+Shewanella putrefaciens;Protein metabolism;hyaD ;Hydrogenase maturation protease ;Hydrogenase maturation protease ;;;;
+Pseudomonas fragi;Regulatory pathways;idh;Isocitrate dehydrogenase;isocitrate dehydrogenase;;;;
+Pseudomonas fragi;Regulatory pathways;ilvB;Acetolactate synthase large subunit;acetolactate synthase large subunit;;;;
+Pseudomonas fragi;Regulatory pathways;ilvH;Acetolactate synthase small subunit;acetolactate synthase small subunit;;;;
+Shewanella putrefaciens;Protein metabolism;impA ;Metalloprotease ;Metalloprotease ;;;;
+Shewanella putrefaciens;Biofilm formation;impB;Type VI secretion system protein ImpB;type VI secretion system protein ImpB;;;;
+Shewanella putrefaciens;Biofilm formation;impC;Type VI secretion system protein ImpC;type VI secretion system protein ImpC;;;;
+Shewanella putrefaciens;Biofilm formation;impH;Type VI secretion system protein ImpH;type VI secretion system protein ImpH;;;;
+Shewanella putrefaciens;Biofilm formation;impJ;Type VI secretion system protein ImpJ;type VI secretion system protein ImpJ;;;;
+Shewanella putrefaciens;Biofilm formation;impL;Type VI secretion system protein ImpL;type VI secretion system protein ImpL;;;;
+Shewanella putrefaciens;Biofilm formation;impM;Type VI secretion system protein ImpM;type VI secretion system protein ImpM;;;;
+Pseudomonas fragi;Protein metabolism;inh;Protease inhibitor (Lipase protection);protease inhibitor (Lipase protection);;;;
+"Common in most gram positive 
+and gram negative organisms";Siderophores Related;irtB;Iron import ATP-binding/permease protein;Iron import ATP-binding/permease protein;;;;
+Pseudomonas psychrophila;Biofilm formation;ladS;Hybrid sensor histidine kinase/response regulator;Hybrid sensor histidine kinase/response regulator;Plasma membrane;Phosphorelay sensor kinase activity;Cellular hyperosmotic response (Protection);
+"Common in most gram positive 
+and gram negative organisms";Quorum Sensing;lapA;Lipopolysaccharide assembly protein;Lipopolysaccharide assembly protein;;;;
+Shewanella putrefaciens;Protein metabolism;lasA ;LasA Protease ;LasA Protease ;;;;
+"Common in most gram positive 
+and gram negative organisms";Quorum Sensing;lasB;Elastase (Hydrolase);Elastase (Hydrolase);;;;
+"Common in most gram positive 
+and gram negative organisms";Quorum Sensing;lasI;Acyl-homoserine-lactone synthase;Acyl-homoserine-lactone synthase;;;;
+Acinetobacter baumannii;Quorum Sensing;lasR;Transcriptional activator protein LasR;Transcriptional activator protein LasR;;;;
+Pseudomonas fragi;Lipid metabolism;lif;Extracellular lipase;Extracellular lipase;;;;
+Pseudomonas fragi;Lipid metabolism;lifO;Lipase chaperone;Lipase chaperone;;;;
+Pseudomonas fragi;Lipid metabolism;lip;Triacylglycerol lipase;Triacylglycerol lipase;;;;
+Pseudomonas fragi;Lipid metabolism;lipA;Lipase encoding gene (lipoyl synthase);Lipase encoding gene (lipoyl synthase);;;;
+Pseudomonas fragi;Regulatory pathways;lipB;Octanoyltransferase ;Octanoyltransferase ;;;;
+Pseudomonas fragi;Lipid metabolism;lipB;Lipase chaperone (octanoyltransferase);Lipase chaperone (octanoyltransferase);;;;
+Pseudomonas fragi;Lipid metabolism;lipC;Lipase varient ;Lipase varient ;;;;
+Pseudomonas fragi;Lipid metabolism;lipL;Triacylglycerol lipase (varient);Triacylglycerol lipase (varient);;;;
+Pseudomonas fragi;Lipid metabolism;lips;Cold-active lipase gene (Triacylglycerol lipase);Cold-active lipase gene (Triacylglycerol lipase);;;;
+Brochothrix thermosphacta ;Biofilm formation;lmaC;Plasmid stabilization system protein, associated with virulence in Listeria;Plasmid stabilization system protein, associated with virulence in Listeria;;;;
+Pseudomonas psychrophila;Protein metabolism;lon ;ATP-dependent Lon protease;ATP-dependent Lon protease;Cytoplasm;ATP hydrolysis activity;Protein quality control for misfolded or incompletely synthesized proteins;
+Pseudomonas fragi;Siderophores Related;lucA;Aerobactin siderophore biosynthesis protein;Aerobactin siderophore biosynthesis protein;;;;
+Pseudomonas fragi;Siderophores Related;lucC;Aerobactin siderophore biosynthesis protein;Aerobactin siderophore biosynthesis protein;;;;
+"Common in most gram positive 
+and gram negative organisms";Quorum Sensing;luxI;Autoinducer synthesis protein;Autoinducer synthesis protein;;;;
+"Common in most gram positive 
+and gram negative organisms";Quorum Sensing;luxM;Plasmid recombination enzyme;Plasmid recombination enzyme;;;;
+"Common in most gram positive 
+and gram negative organisms";Quorum Sensing;luxN;Related to Quorum Sensing;Related to Quorum Sensing;;;;
+"Common in most gram positive 
+and gram negative organisms";Quorum Sensing;luxO;Luminescence regulatory protein;Luminescence regulatory protein;;;;
+"Common in most gram positive 
+and gram negative organisms";Quorum Sensing;luxP;Autoinducer 2-binding periplasmic protein;Autoinducer 2-binding periplasmic protein;;;;
+"Common in most gram positive 
+and gram negative organisms";Quorum Sensing;luxQ;Autoinducer 2 sensor kinase/phosphatase;Autoinducer 2 sensor kinase/phosphatase;;;;
+"Common in most gram positive 
+and gram negative organisms";Quorum Sensing;luxR;LuxR family transcriptional regulator;LuxR family transcriptional regulator;;;;
+"Common in most gram positive 
+and gram negative organisms";Quorum Sensing;luxS;S-ribosylhomocysteinase (Auto inducer 2 production protein);S-ribosylhomocysteinase (Auto inducer 2 production protein);;;;
+"Common in most gram positive 
+and gram negative organisms";Quorum Sensing;luxU;Phosphorelay protein (Autoinducer 2 sensor kinase/phosphatase);Phosphorelay protein (Autoinducer 2 sensor kinase/phosphatase);;;;
+Pseudomonas fragi;Regulatory pathways;manX;PTS mannose transporter subunit IIAB;PTS mannose transporter subunit IIAB;;;;
+Pseudomonas fragi;Regulatory pathways;manY;PTS system mannose-specific EIIC component;PTS system mannose-specific EIIC component;;;;
+Pseudomonas fragi;Regulatory pathways;manZ;PTS mannose transporter subunit IID;PTS mannose transporter subunit IID;;;;
+Pseudomonas psychrophila;Biofilm formation;mazF;Endoribonuclease toxin MazF (Toxin MazF);Endoribonuclease toxin MazF (Toxin MazF);Extracellular region;RNA endonuclease activity;Quorum sensing,  single-species biofilm formation, rRNA catabolic process;
+Shewanella putrefaciens;Sulfur metabolism;metA;Homoserine O-succinyltransferase;Homoserine O-succinyltransferase;;;;
+Pseudomonas psychrophila;Sulfur metabolism;metZ;O-succinylhomoserine sulfhydrylase;O-succinylhomoserine sulfhydrylase;Cytoplasm;Carbon-sulfur lyase activity;Transsulfuration, Homocysteine & Methionine biosynthetic process;
+Shewanella putrefaciens;Biofilm formation;mshA;MSHA biogenesis protein MshA, Type IV pilus assembly protein;MSHA biogenesis protein MshA, Type IV pilus assembly protein;;;;
+Shewanella putrefaciens;Biofilm formation;mshB;MSHA biogenesis protein MshB, Type IV pilus assembly protein;MSHA biogenesis protein MshB, Type IV pilus assembly protein;;;;
+Shewanella putrefaciens;Biofilm formation;mshC;MSHA biogenesis protein MshC, Type IV pilus assembly protein;MSHA biogenesis protein MshC, Type IV pilus assembly protein;;;;
+Shewanella putrefaciens;Biofilm formation;mshD;MSHA biogenesis protein MshD, Type IV pilus assembly protein;MSHA biogenesis protein MshD, Type IV pilus assembly protein;;;;
+Shewanella putrefaciens;Biofilm formation;mshE;MSHA biogenesis protein MshE, Type IV pilus assembly protein;MSHA biogenesis protein MshE, Type IV pilus assembly protein;;;;
+Shewanella putrefaciens;Biofilm formation;mshL;Pilus (MSHA type) biogenesis protein MshL;Pilus (MSHA type) biogenesis protein MshL;;;;
+Pseudomonas psychrophila;Protein metabolism;mucD;Serine protease;Serine protease;Periplasmic space;Serine-type endopeptidase activity;Degradation of transiently denatured and unfolded proteins which accumulate in the periplasm following stress conditions;
+Pseudomonas fragi;Biofilm formation;mucP;Metalloprotease protease;Metalloprotease protease;;;;
+Pseudomonas psychrophila;Biofilm formation;mucR;MucR family transcriptional regulator;MucR family transcriptional regulator;;DNA-binding transcription factor activity;Involved in the regulation of exopolysaccharide synthesis (regulation of DNA-templated transcription).;
+"Common in most gram positive 
+and gram negative organisms";Quorum Sensing;mvfR;Multiple virulence factor transcriptional regulator;Multiple virulence factor transcriptional regulator;Extracellular region;;Regulation of transmembrane transport, Transcription regulator that plays a critical role in virulence by positively regulating the expression of multiple quorum sensing (QS)-regulated virulence factors, genes involved in protein secretion, translation, response to oxidative stress and the phnAB operon;
+Pseudomonas fragi;Stress adaptation;nouB;NADH-quinone oxidoreductase chain B;NADH-quinone oxidoreductase chain B;;;;
+Pseudomonas fragi;Stress adaptation;nouE;NADH-quinone oxidoreductase chain E;NADH-quinone oxidoreductase chain E;;;;
+Pseudomonas fragi;Stress adaptation;nouF;NADH-quinone oxidoreductase chain F;NADH-quinone oxidoreductase chain F;;;;
+Pseudomonas fragi;Stress adaptation;nouG;NADH-quinone oxidoreductase chain G;NADH-quinone oxidoreductase chain G;;;;
+Pseudomonas fragi;Stress adaptation;nouK;NADH-quinone oxidoreductase chain K;NADH-quinone oxidoreductase chain K;;;;
+Pseudomonas fragi;Stress adaptation;nouM;NADH-quinone oxidoreductase chain M;NADH-quinone oxidoreductase chain M;;;;
+Pseudomonas fragi;Stress adaptation;nouN;NADH-quinone oxidoreductase chain N;NADH-quinone oxidoreductase chain N;;;;
+Pseudomonas fragi;Regulatory pathways;NtrC;Nitrogen regulation protein (stress resistance);Nitrogen regulation protein (stress resistance);;;;
+Pseudomonas fragi;Stress adaptation;nuoH;NADH-quinone oxidoreductase chain H;NADH-quinone oxidoreductase chain H;;;;
+Pseudomonas fragi;Biofilm formation;occD6;Outer membrane porin protein;Outer membrane porin protein;;;;
+"Common in most gram positive 
+and gram negative organisms";Siderophores Related;ompQ;Pyoverdine export/recycling transporter outer membrane protein;Pyoverdine export/recycling transporter outer membrane protein;;;;
+Pseudomonas psychrophila;Biofilm formation;ompR;Two-component system, OmpR family, phosphate regulon response regulator OmpR;Two-component system, OmpR family, phosphate regulon response regulator OmpR;;;;
+Pseudomonas fragi;Biofilm formation;oprD;Outer membrane porin protein;Outer membrane porin protein;;;;
+Pseudomonas fragi;Biofilm formation;oprQ;Outer membrane porin protein;Outer membrane porin protein;;;;
+Pseudomonas psychrophila;Biofilm formation;oxyR;Hydrogen peroxide-inducible genes activator;Hydrogen peroxide-inducible genes activator;Cytoplasm;DNA-binding transcription factor activity;Regulation of response to reactive oxygen species;
+Pseudomonas fragi;Stress adaptation;papC;Outer membrane usher protein;Outer membrane usher protein;;;;
+"Common in most gram positive 
+and gram negative organisms";Siderophores Related;pchE;Phyochelin siderophore synthesis subunit E;Phyochelin siderophore synthesis subunit E;;;;
+"Common in most gram positive 
+and gram negative organisms";Siderophores Related;pchF;Pyochelin non-ribosomal peptide synthetase;Pyochelin non-ribosomal peptide synthetase;;;;
+"Common in most gram positive 
+and gram negative organisms";Quorum Sensing;pcoI;Transcriptional regulatory protein;Transcriptional regulatory protein;;;;
+"Common in most gram positive 
+and gram negative organisms";Quorum Sensing;pcoR ;Transcriptional regulatory protein;Transcriptional regulatory protein;;;;
+Pseudomonas psychrophila;Protein metabolism;pepA ;Leucyl aminopeptidase ;Leucyl aminopeptidase ;Cytoplasm;Metalloaminopeptidase activity (Manganese protease);Presumably involved in the processing and regular turnover of intracellular proteins.;
+Shewanella putrefaciens;Protein metabolism;pepB ;Aminopeptidase ;Aminopeptidase ;;;;
+Shewanella putrefaciens;Protein metabolism;pepD ;Aminoacyl-histidine dipeptidase;Aminoacyl-histidine dipeptidase;;;;
+Pseudomonas psychrophila;Protein metabolism;pepN ;Aminopeptidase;Aminopeptidase;Cytoplasm;Metallopeptidase activity (Zinc Protease);Release of an N-terminal amino acid, Xaa-|-Yaa- from a peptide, amide or arylamide. ;
+"Common in most gram positive 
+and gram negative organisms";Siderophores Related;pfeA;Ferric-siderophore enterobactin receptor ;Ferric-siderophore enterobactin receptor ;;;;
+Pseudomonas psychrophila;Protein metabolism;pfpI ;Protease I ;Protease I ;Cytoplasm;Peptidase activity;Proteolysis (Cellular response to antibiotics, Oxidative stress & Biofilm formation);
+Acinetobacter harbinensis;Biofilm formation;PgaA;Biofilm PGA synthesis protein PgaA;Biofilm PGA synthesis protein PgaA;;;;
+Acinetobacter harbinensis;Biofilm formation;PgaB;Biofilm PGA synthesis protein PgaB;Biofilm PGA synthesis protein PgaB;;;;
+Acinetobacter harbinensis;Biofilm formation;PgaC;Biofilm PGA synthesis protein PgaC;Biofilm PGA synthesis protein PgaC;;;;
+Acinetobacter harbinensis;Biofilm formation;PgaD;Biofilm PGA synthesis protein PgaD;Biofilm PGA synthesis protein PgaD;;;;
+Pseudomonas psychrophila;Biofilm formation;phnA;Alkylphosphonate utilization operon protein;Alkylphosphonate utilization operon protein;Cytoplasm;Anthranilate synthase activity;Required to induce the genes for the biosynthesis of the virulence factor pyocyanine (PCN), a characteristic blue-green phenazine pigment produced by P.aeruginosa;
+Pseudomonas psychrophila;Biofilm formation;phnB;Anthranilate synthase component II;Anthranilate synthase component II;Cytoplasm;Anthranilate synthase activity;Required to induce the genes for the biosynthesis of the virulence factor pyocyanine (PCN), a characteristic blue-green phenazine pigment produced by P.aeruginosa;
+Shewanella putrefaciens;Sulfur metabolism;phsA;Thiosulfate reductase / polysulfide reductase chain A;Thiosulfate reductase / polysulfide reductase chain A;;;;
+"Common in most gram positive 
+and gram negative organisms";Quorum Sensing;pilA;Pilus assembly protein, major pilin PilA;Pilus assembly protein, major pilin PilA;;;;
+"Common in most gram positive 
+and gram negative organisms";Quorum Sensing;pilB;Type IV-A pilus assembly ATPase PilB;Type IV-A pilus assembly ATPase PilB;;;;
+Pseudomonas psychrophila;Biofilm formation;pilG;Twitching motility response regulator PilG;Twitching motility response regulator PilG;;Phosphorelay signal transduction system;Plays a role in surface and host cell adhesion, colonization, biofilm maturation, virulence, and twitching;
+Pseudomonas psychrophila;Biofilm formation;pilH;Type IV pilus response regulator;Type IV pilus response regulator;;Phosphorelay signal transduction system;May be a part of a signal-transduction system that regulates twitching motility by controlling pilus function;
+Pseudomonas psychrophila;Biofilm formation;pilT;Type IV pili twitching motility protein;Type IV pili twitching motility protein;Cytoplasm;ATP hydrolysis activity;Plays a role in surface and host cell adhesion, colonization, biofilm maturation, virulence, and twitching, a form of surface-associated motility facilitated by cycles of extension, adhesion, and retraction of T4P fibers;
+Pseudomonas psychrophila;Biofilm formation;pilJ;Twitching motility protein PilJ;Twitching motility protein PilJ;Plasma membrane;Transmembrane signaling receptor activity;May be a part of a signal-transduction system that regulates twitching motility by controlling pilus function (extension and retraction).;
+"Common in most gram positive 
+and gram negative organisms";Quorum Sensing;pilV;IncI1 plasmid conjugative transfer pilus-tip adhesin protein;IncI1 plasmid conjugative transfer pilus-tip adhesin protein;;;;
+Pseudomonas psychrophila;Protein metabolism;pip ;Proline iminopeptidase (Prolyl aminopeptidase);Proline iminopeptidase (Prolyl aminopeptidase);Cytoplasm;Aminopeptidase activity;Release of N-terminal proline from a peptide (Proteolysis);
+"Common in most gram positive 
+and gram negative organisms";Quorum Sensing;plcH;Hemolytic phospholipase C precursor;Hemolytic phospholipase C precursor;;;;
+"Common in most gram positive 
+and gram negative organisms";Quorum Sensing;plcN;Non-hemolytic phospholipase C;Non-hemolytic phospholipase C;;;;
+Pseudomonas fragi;Regulatory pathways;plsY;Lipid metabolism regulation (glycerol-3-phosphate acyltransferase);Lipid metabolism regulation (glycerol-3-phosphate acyltransferase);;;;
+Pseudomonas fragi;Regulatory pathways;pmrA;Two-component system response regulator;Two-component system response regulator;;;;
+Salmonella Typhimurium ;Biofilm formation;pmrB;Two-component system sensor histidine kinase PmrB;Two-component system sensor histidine kinase PmrB;;;;
+Pseudomonas psychrophila;Protein metabolism;potF;Putrescine ABC transporter, periplasmic binding protein;Putrescine ABC transporter, periplasmic binding protein;Plasma membrane;Putrescine binding;Part of the ABC transporter complex PotFGHI involved in putrescine uptake;
+Shewanella putrefaciens;Protein metabolism;potG;ATP-binding component of putrescine transport system;ATP-binding component of putrescine transport system;;;;
+Pseudomonas psychrophila;Protein metabolism;potH;Putrescine transport system permease protein PotH;Putrescine transport system permease protein PotH;Plasma membrane;ABC transporter permease activity;Part of the ABC transporter complex PotFGHI involved in putrescine uptakeort;
+Pseudomonas psychrophila;Protein metabolism;potI;Putrescine transport system permease protein potI;Putrescine transport system permease protein potI;Plasma membrane;ABC transporter permease activity;Part of the ABC transporter complex PotFGHI involved in putrescine uptakeort;
+Pseudomonas fragi;Regulatory pathways;pox;Pyruvate oxidase;Pyruvate oxidase;;;;
+Pseudomonas psychrophila;Protein metabolism;pqqL ;Zinc protease;Zinc protease;Cytoplasm & Periplasmic space;Metalloendopeptidase activity (Zinc Protease);Proteolysis (Hydrolase);
+Pseudomonas fragi;Regulatory pathways;prt;Microbial collagenase;Microbial collagenase;;;;
+Pseudomonas fragi;Protein metabolism;prtA;Serine-protease homologues, Whole operon ((aprX/aprI/aprDEF/prtAB/lipA));Serine-protease homologues, Whole operon ((aprX/aprI/aprDEF/prtAB/lipA));;;;
+Pseudomonas fragi;Protein metabolism;prtB;Extracellular serine protease precursor;Extracellular serine protease precursor;;;;
+Pseudomonas fragi;Protein metabolism;pspA;Serine protease A;Serine protease A;;;;
+Pseudomonas fragi;Protein metabolism;pspB;Serine protease B;Serine protease B;;;;
+Shewanella putrefaciens;Biofilm formation;pulF;Bacterial type II secretion system domain protein F;Bacterial type II secretion system domain protein F;;;;
+Shewanella putrefaciens;Biofilm formation;pulM;General secretion pathway protein M;General secretion pathway protein M;;;;
+Pseudomonas psychrophila;Protein metabolism;puuB;Gamma-glutamylputrescine oxidoreductase;Gamma-glutamylputrescine oxidoreductase;Cytoplasm;Oxidoreductase activity;Involved in the breakdown of putrescine via the oxidation of L-glutamylputrescine.;
+"Common in most gram positive 
+and gram negative organisms";Siderophores Related;pvdA;L-ornithine N(5)-monooxygenase (SidA/IucD/PvdA family monooxygenase);L-ornithine N(5)-monooxygenase (SidA/IucD/PvdA family monooxygenase);;;;
+"Common in most gram positive 
+and gram negative organisms";Siderophores Related;pvdQ;Acyl-homoserine lactone acylase PvdQ;Acyl-homoserine lactone acylase PvdQ;;;;
+"Common in most gram positive 
+and gram negative organisms";Siderophores Related;﻿pvdR;Pyoverdine export/recycling transporter periplasmic adaptor subunit;Pyoverdine export/recycling transporter periplasmic adaptor subunit;;;;
+"Common in most gram positive 
+and gram negative organisms";Siderophores Related;pvdT;Pyoverdine export/recycling transporter ATP-binding/permease subunit;Pyoverdine export/recycling transporter ATP-binding/permease subunit;;;;
+"Common in most gram positive 
+and gram negative organisms";Quorum Sensing;qscR;Quorum-sensing control repressor;Quorum-sensing control repressor;;;;
+Escherichia coli;Biofilm formation;qseB;Transcriptional regulatory protein QseB;Transcriptional regulatory protein QseB;;;;
+Escherichia coli;Biofilm formation;qseC;Sensor protein qseC;Sensor protein qseC;;;;
+Pseudomonas psychrophila;Biofilm formation;rcsB;Two-component system, NarL family, captular synthesis response regulator RcsB;Two-component system, NarL family, captular synthesis response regulator RcsB;;;;
+Pseudomonas psychrophila;Biofilm formation;rcsC;Two-component system, NarL family, capsular synthesis sensor histidine kinase RcsC;Two-component system, NarL family, capsular synthesis sensor histidine kinase RcsC;;;;
+;;resP;Regulator of sigma E protease;Regulator of sigma E protease;;;;
+Pseudomonas psychrophila;Biofilm formation;retS;Hybrid sensor histidine kinase/response regulator RetS;Hybrid sensor histidine kinase/response regulator RetS;;;;
+Pseudomonas psychrophila;Biofilm formation;rhlA;Rhamnosyltransferase 1 subunit A;Rhamnosyltransferase 1 subunit A;;;;
+"Common in most gram positive 
+and gram negative organisms";Quorum Sensing;rhlI;Autoinducer synthesis protein RhlI ;Autoinducer synthesis protein RhlI ;;;;
+"Common in most gram positive 
+and gram negative organisms";Quorum Sensing;rhlR;Transcriptional regulator RhlR;Transcriptional regulator RhlR;;;;
+Pseudomonas fragi;Regulatory pathways;rpoE;RNA polymerase sigma factor RpoE;RNA polymerase sigma factor RpoE;;;;
+Pseudomonas psychrophila;Biofilm formation;rpoN;RNA polymerase sigma-54 factor RpoN;RNA polymerase sigma-54 factor RpoN;;;;
+Pseudomonas psychrophila;Biofilm formation;rpoS;RNA polymerase sigma factor RpoS;RNA polymerase sigma factor RpoS;;;;
+Pseudomonas psychrophila;Protein metabolism;rseP ;Regulator of sigma E protease ;Regulator of sigma E protease ;Plasma membrane;Metalloendopeptidase activity (Zinc Protease);Degradation of transiently denatured and unfolded proteins which accumulate in the periplasm following stress conditions.;
+Pseudomonas psychrophila;Biofilm formation;sagS;Two-component system sensor histidine kinase/response regulator SagS;Two-component system sensor histidine kinase/response regulator SagS;Plasma membrane;Phosphorelay sensor kinase activity;Cellular hyperosmotic response(Response to hydrogen peroxide);
+Pseudomonas psychrophila;Sulfur metabolism;sbp;Sulfate transport system substrate-binding protein;Sulfate transport system substrate-binding protein;Periplasmic space;Sulfur compound binding;Sulfate transmembrane transport;
+Pseudomonas fragi;Regulatory pathways;scrA;PTS system, sucrose-specific IIBC component;PTS system, sucrose-specific IIBC component;;;;
+Pseudomonas psychrophila;Biofilm formation;secA;Protein translocase subunit SecA (SecYEG preprotein conducting channel);Protein translocase subunit SecA (SecYEG preprotein conducting channel);Plasma membrane;Protein-exporting ATPase activity;Required for protein export, interacts with the SecYEG preprotein conducting channel.;
+Pseudomonas psychrophila;Biofilm formation;secD;Protein translocase subunit SecD;Protein translocase subunit SecD;Plasma membrane;Protein-transporting ATPase activity;Part of the Sec protein translocase complex. Interacts with the SecYEG preprotein conducting channel. SecDF uses the proton motive force (PMF) to complete protein translocation after the ATP-dependent function of SecA.;
+Pseudomonas psychrophila;Biofilm formation;secE;Protein translocase subunit SecE;Protein translocase subunit SecE;Plasma membrane;Protein transmembrane transporter activity;Essential subunit of the Sec protein translocation channel SecYEG. Clamps together the 2 halves of SecY. May contact the channel plug during translocation.;
+Pseudomonas psychrophila;Biofilm formation;secF;Protein translocase subunit SecF;Protein translocase subunit SecF;Plasma membrane;Protein-transporting ATPase activity;Part of the Sec protein translocase complex. Interacts with the SecYEG preprotein conducting channel. SecDF uses the proton motive force (PMF) to complete protein translocation after the ATP-dependent function of SecA.;
+Pseudomonas psychrophila;Sulfur metabolism;sfnG;Dimethylsulfone monooxygenase;Dimethylsulfone monooxygenase;;Alkanesulfonate monooxygenase activity;Involved in the dimethyl sulfide degradation pathway. ;
+Pseudomonas fragi;Biofilm formation;shlA;Hemolysin;Hemolysin;;;;
+Pseudomonas psychrophila;Protein metabolism;sohB ;Serine protease SohB ;Serine protease SohB ;Plasma membrane;Serine-type endopeptidase activity;Proteolysis;
+Shewanella putrefaciens;Sulfur metabolism;soxC;Sulfite dehydrogenase;Sulfite dehydrogenase;;;;
+Pseudomonas psychrophila;Protein metabolism;speC;Ornithine decarboxylase;Ornithine decarboxylase;Cytoplasm;Ornithine decarboxylase activity;Putrescine biosynthetic process from ornithine;
+Pseudomonas psychrophila;Protein metabolism;speE;Spermidine synthase;Spermidine synthase;Cytoplasm;Spermidine synthase activity;Spermidine biosynthetic process;
+Pseudomonas psychrophila;Protein metabolism;sppA ;Protease IV ;Protease IV ;Plasma Membrane;Serine-type endopeptidase activity;Proteolysis (Also involved in secretion of mature proteins across the membrane);
+Pseudomonas psychrophila;Protein metabolism;spuD;Putrescine-binding periplasmic protein SpuD;Putrescine-binding periplasmic protein SpuD;Periplasmic space;Putrescine binding;Putrescine-binding protein probably required for putrescine uptake into cells.;
+Pseudomonas psychrophila;Protein metabolism;spuF;Polyamine transporter;Polyamine transporter;Plasma membrane;ATP hydrolysis activity;Part of the ABC transporter complex PotABCD involved in spermidine/putrescine import. Responsible for energy coupling to the transport system.;
+Pseudomonas psychrophila;Protein metabolism;spuG;Polyamine transport protein PotH;Polyamine transport protein PotH;Plasma membrane;ABC transporter permease activity;Part of the ABC transporter complex PotFGHI involved in putrescine uptakeort;
+Pseudomonas psychrophila;Sulfur metabolism;sqr;Sulfide-quinone reductase;Sulfide-quinone reductase;Plasma Membrane;Sulfide-quinone oxidoreductase activity;Catalyzes the oxidation of hydrogen sulfide, with the help of a quinone. ;
+Pseudomonas psychrophila;Sulfur metabolism;sseA;Thiosulfate/3-mercaptopyruvate sulfurtransferase;Thiosulfate/3-mercaptopyruvate sulfurtransferase;Cytoplasm;Thiosulfate sulfurtransferase activity;Catalyzes the transfer of sulfur from 3-mercaptopyruvate to a thiol-containing acceptor to form an intramolecular disulfide releasing hydrogen sulfide and pyruvate.;
+Pseudomonas psychrophila;Protein metabolism;ssuA;Sulfonate transport system substrate-binding protein;Sulfonate transport system substrate-binding protein;Plasma Membrane;ATPase-coupled transmembrane transporter activity;Part of the ABC transporter complex SsuABC involved in aliphatic sulfonates import. Responsible for energy coupling to the transport system.;
+Pseudomonas psychrophila;Sulfur metabolism;ssuB;Sulfonate transport system ATP-binding protein;Sulfonate transport system ATP-binding protein;Plasma Membrane;ATP hydrolysis activity;Part of the ABC transporter complex SsuABC involved in aliphatic sulfonates import. Responsible for energy coupling to the transport system.;
+Pseudomonas psychrophila;Sulfur metabolism;ssuC;Sulfonate transport system permease protein;Sulfonate transport system permease protein;Plasma membrane;ATP hydrolysis activity;Part of the ABC transporter complex SsuABC involved in aliphatic sulfonates import. Responsible for energy coupling to the transport system.;
+Pseudomonas psychrophila;Sulfur metabolism;ssuD;Alkanesulfonate monooxygenase;Alkanesulfonate monooxygenase;Cytoplasm;Alkanesulfonate monooxygenase activity;Involved in desulfonation of aliphatic sulfonates;
+Pseudomonas psychrophila;Sulfur metabolism;ssuE;FMN reductase (NADPH);FMN reductase (NADPH);Cytoplasm;FMN reductase (NAD(P)H) activity;Involved in the dimethyl sulfide degradation pathway. Catalyzes the NADH-dependent reduction of FMN;
+Pseudomonas psychrophila;Biofilm formation;tagA;N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase;N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase;;N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase activity;"Teichoic acid biosynthetic process & 	Cell wall organization";
+Pseudomonas psychrophila;Sulfur metabolism;tauA;Taurine transport system substrate-binding protein;Taurine transport system substrate-binding protein;Periplasmic space;Transmembrane transporter activity;Alkanesulfonate transmembrane transport;
+Pseudomonas psychrophila;Sulfur metabolism;tauB;Taurine import ATP-binding protein TauB;Taurine import ATP-binding protein TauB;Plasma Membrane;ATP hydrolysis activity;Part of the ABC transporter complex TauABC involved in taurine import. Responsible for energy coupling to the transport system.;
+Pseudomonas psychrophila;Sulfur metabolism;tauC;Taurine transport system permease protein;Taurine transport system permease protein;Plasma membrane;Hydrolase activity;Transmembrane transport (Cellular response to sulfur starvation);
+Pseudomonas psychrophila;Sulfur metabolism;tauD;Taurine dioxygenase;Taurine dioxygenase;Cytoplasm;Taurine dioxygenase activity;Catalyzes the alpha-ketoglutarate-dependent hydroxylation of taurine yielding sulfite and aminoacetaldehyde after decomposition of an unstable intermediate (sulfur compound catabolic process);
+Pseudomonas fluorescens ;Protein metabolism;tliA;P. fluorescens lipase (thermostable lipase TliA);P. fluorescens lipase (thermostable lipase TliA);;;;
+Pseudomonas fluorescens ;Protein metabolism;tliD;ABC protein exporter gene clusters (ABC transporter TliD);ABC protein exporter gene clusters (ABC transporter TliD);;;;
+Pseudomonas fluorescens ;Protein metabolism;tliE;ABC transporter periplasmic substrate-binding protein ;ABC transporter periplasmic substrate-binding protein ;;;;
+Pseudomonas fluorescens ;Protein metabolism;tliF;ABC transporter permease;ABC transporter permease;;;;
+"Common in most gram positive 
+and gram negative organisms";Siderophores Related;tonB;Siderophore Transporter proteins (TonB system transport protein TonB);Siderophore Transporter proteins (TonB system transport protein TonB);;;;
+Pseudomonas psychrophila;Biofilm formation;toxR;ToxA transcriptional regulator ToxR;ToxA transcriptional regulator ToxR;Plasma membrane;DNA-templated transcription regulatory activity;Positive regulation of toxA gene transcription.;
+Pseudomonas psychrophila;Biofilm formation;tpbB;Diguanylate cyclase;Diguanylate cyclase;;;;
+Shewanella putrefaciens;Protein metabolism;tri ;Tricorn protease ;Tricorn protease ;;;;
+Pseudomonas psychrophila;Biofilm formation;trpE;Anthranilate synthase component 1;Anthranilate synthase component 1;Cytoplasm;Anthranilate synthase activity;Part of a heterotetrameric complex that catalyzes the two-step biosynthesis of anthranilate, an intermediate in the biosynthesis of L-tryptophan.;
+Pseudomonas psychrophila;Biofilm formation;trpG;Anthranilate synthase component II;Anthranilate synthase component II;Cytoplasm;Anthranilate synthase activity;Part of a heterotetrameric complex that catalyzes the two-step biosynthesis of anthranilate, an intermediate in the biosynthesis of L-tryptophan.;
+Shewanella putrefaciens;Sulfur metabolism;ttrA;Tetrathionate reductase subunit A;Tetrathionate reductase subunit A;;;;
+Shewanella putrefaciens;Sulfur metabolism;ttrB;Tetrathionate reductase subunit B;Tetrathionate reductase subunit B;;;;
+Shewanella putrefaciens;Sulfur metabolism;ttrC;Tetrathionate reductase subunit C;Tetrathionate reductase subunit C;;;;
+Shewanella putrefaciens;Biofilm formation;uvrY;Two-component system, NarL family, invasion response regulator UvrY;Two-component system, NarL family, invasion response regulator UvrY;;;;
+Shewanella putrefaciens;Biofilm formation;vasG;Type VI secretion system protein VasG;Type VI secretion system protein VasG;;;;
+Pseudomonas psychrophila;Biofilm formation;vpsJ;Polysaccharide biosynthesis protein VpsJ;Polysaccharide biosynthesis protein VpsJ;;;Polysaccharide biosynthesis protein;
+"Common in most gram positive 
+and gram negative organisms";Quorum Sensing;vqsM;HTH-type transcriptional regulator ;HTH-type transcriptional regulator ;Cytoplasm;DNA-binding transcription activator activity;Transcriptional regulator involved in quorum sensing, virulence and multidrug resistance;
+Pseudomonas psychrophila;Biofilm formation;wcaJ;Putative colanic acid biosysnthesis UDP-glucose lipid carrier transferase;Putative colanic acid biosysnthesis UDP-glucose lipid carrier transferase;Plasma membrane;Undecaprenyl-phosphate glucose phosphotransferase activity;Colanic acid biosynthetic process;
+Pseudomonas psychrophila;Biofilm formation;wecB;UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing);UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing);Cytoplasm;UDP-N-acetylglucosamine 2-epimerase activity;Enterobacterial common antigen biosynthetic process;
+Pseudomonas psychrophila;Biofilm formation;wecC;UDP-N-acetyl-D-mannosaminuronic acid dehydrogenase;UDP-N-acetyl-D-mannosaminuronic acid dehydrogenase;Plasma Membrane;NADH dehydrogenase activity;O-antigen biosynthetic process & Cell wall organization;
+Pseudomonas psychrophila;Biofilm formation;wspA;Methyl-accepting chemotaxis protein WspA;methyl-accepting chemotaxis protein WspA;;;;
+Pseudomonas psychrophila;Biofilm formation;wspB;Chemotaxis-related protein WspB;chemotaxis-related protein WspB;;;;
+Pseudomonas psychrophila;Biofilm formation;wspD;Chemotaxis-related protein WspD;chemotaxis-related protein WspD;;;;
+Pseudomonas psychrophila;Biofilm formation;wspE;Two-component system, chemotaxis family, sensor histidine kinase and response regulator WspE;two-component system, chemotaxis family, sensor histidine kinase and response regulator WspE;;;;
+Pseudomonas psychrophila;Biofilm formation;wspF;Two-component system, chemotaxis family, response regulator WspF;two-component system, chemotaxis family, response regulator WspF;;;;
+Pseudomonas psychrophila;Biofilm formation;wspR;Two-component system, chemotaxis family, response regulator WspR;two-component system, chemotaxis family, response regulator WspR;;;;
+Pseudomonas psychrophila;Biofilm formation;wza;Putative polysaccharide export protein Wza;Putative polysaccharide export protein Wza;Outer membrane;Polysaccharide transmembrane transporter activity;Colanic acid biosynthetic process;
+Pseudomonas fluorescens ;Protein metabolism;xcpQ;Outer membrane proteins (Type II secretion system protein);Outer membrane proteins (Type II secretion system protein);;;;
+Pseudomonas fluorescens ;Protein metabolism;xcpT ;Outer membrane proteins (Type II secretion system protein);Outer membrane proteins (Type II secretion system protein);;;;
+Pseudomonas fluorescens ;Protein metabolism;xcpU;Outer membrane proteins (Type II secretion system protein);Outer membrane proteins (Type II secretion system protein);;;;
+Pseudomonas fluorescens ;Protein metabolism;xcpV;Outer membrane proteins (Type II secretion system protein);Outer membrane proteins (Type II secretion system protein);;;;
+Pseudomonas fluorescens ;Protein metabolism;xcpW;Outer membrane proteins (Type II secretion system protein);Outer membrane proteins (Type II secretion system protein);;;;
+Pseudomonas fluorescens ;Protein metabolism;xcpX;Outer membrane proteins (Type II secretion system protein);Outer membrane proteins (Type II secretion system protein);;;;
+Lactococcus piscium;Biofilm formation;xrE;XRE family transcriptional regulator;XRE family transcriptional regulator;;;;
+Pseudomonas psychrophila;Protein metabolism;yccA ;Modulator of FtsH protease ;modulator of FtsH protease ;Plasma membrane;Peptidase activity;Negative regulation of apoptotic process (Proteolysis);
+Pseudomonas psychrophila;Biofilm formation;ycgR;Flagellar brake protein;flagellar brake protein;;;;
+Pseudomonas fragi;Biofilm formation;ywqE;Protein tyrosine phosphatase;protein tyrosine phosphatase;;;;
